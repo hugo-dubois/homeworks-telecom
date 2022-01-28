@@ -14,3 +14,6 @@ grasp : https://slides.com/hugsy/minimal
 
 
 spring boot heroku site : https://springboot-heroku-rtu-demo.herokuapp.com/welcome
+
+You will also find the slide from the first classes that introduce my skills :https://slides.com/hugsy/deck
+and the json homework made at the beginning of the semester : json1.py
